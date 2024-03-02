@@ -64,7 +64,7 @@ A **certification** is a proof that it has passed an assessment process that dem
             <img alt="Bilge İş Badge" height="24" src="https://img.shields.io/badge/Bilge%20İş-D71921?logoColor=white&style=for-the-badge">
           </a>
         </td>
-        <td align="center">7</td>
+        <td align="center">8</td>
       </tr>
       <tr>
         <td>06</td>
