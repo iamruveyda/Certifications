@@ -12,10 +12,6 @@
 
   - **_Nov. 2020 - Mar. 2021_** [Karabuk University Green Crescent Club](https://www.instagram.com/p/CI_FDgRAf7q/)
 
-- **Membership**
-
-  - **_2012 - 2014_** Nature and Future Club Membership on Doga Schools
-
 <hr>
 
 ## Github URL
